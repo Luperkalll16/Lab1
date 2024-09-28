@@ -1,0 +1,3 @@
+[submodule "awesome-cpp"]
+	path = awesome-cpp
+	url = git@github.com:fffaraz/awesome-cpp.git
